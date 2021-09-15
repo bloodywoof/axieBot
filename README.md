@@ -26,7 +26,7 @@ Later, it will support card identification and automatic PK function
 
 Paid support. If necessary, you can transfer 50U to 0xdff34ec3f03e54e10ce5a3862158c268712faf27.
 
-Support currency safety chain and Ethernet chain.
+Support binance chain and Ethernet chain.
 
 Then mail bloodywoof@163.com Send the transaction record, and I will reply to the source code and exe to you.
 
